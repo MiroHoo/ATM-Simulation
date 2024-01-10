@@ -1,5 +1,3 @@
-# group_5
-## Parts built by me
 
 ## ER- Kaavio
 Projektin ER- Kaavio on seuraavanlainen
